@@ -20,6 +20,6 @@ Tools Used:
 1. SQL Server Management Studio
 2. Visual Studio
 
-Source code        :https://github.com/vijaythapa333/BloodBankManagementSystem
-Guideline          :https://www.vijaythapa.com.np/2019/06/create-blood-bank-management-system.html
-Youtube tutorials  :https://www.youtube.com/playlist?list=PLBLPjjQlnVXW18XGLC2yjimoNA6ugNBQQ
+Source code        :https://github.com/vijaythapa333/BloodBankManagementSystem <br>
+Guideline          :https://www.vijaythapa.com.np/2019/06/create-blood-bank-management-system.html  <br>
+Youtube tutorials  :https://www.youtube.com/playlist?list=PLBLPjjQlnVXW18XGLC2yjimoNA6ugNBQQ  <br>
