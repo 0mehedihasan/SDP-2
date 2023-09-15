@@ -22,4 +22,5 @@ Tools Used:
 
 Source code        :https://github.com/vijaythapa333/BloodBankManagementSystem <br>
 Guideline          :https://www.vijaythapa.com.np/2019/06/create-blood-bank-management-system.html  <br>
-Youtube tutorials  :https://www.youtube.com/playlist?list=PLBLPjjQlnVXW18XGLC2yjimoNA6ugNBQQ  <br>
+Youtube tutorials  :https://www.youtube.com/playlist?list=PLBLPjjQlnVXW18XGLC2yjimoNA6ugNBQQ  <br> 
+Stock part: https://www.youtube.com/playlist?list=PLdRq0mbeEBmwVaARH4TQVCC-s152eGgxq
